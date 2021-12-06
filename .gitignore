@@ -1,2 +1,29 @@
 .DS_Store
 .ipynb_checkpoints
+assessments/careplans.csv
+assessments/conditions.csv
+assessments/encounters.csv
+assessments/observations.csv
+assessments/patients.csv
+assessments/10k_synthea_covid19_csv/10k_synthea_covid19_csv/allergies.csv
+assessments/10k_synthea_covid19_csv/10k_synthea_covid19_csv/careplans.csv
+assessments/10k_synthea_covid19_csv/10k_synthea_covid19_csv/conditions.csv
+assessments/10k_synthea_covid19_csv/10k_synthea_covid19_csv/devices.csv
+assessments/10k_synthea_covid19_csv/10k_synthea_covid19_csv/encounters.csv
+assessments/10k_synthea_covid19_csv/10k_synthea_covid19_csv/imaging_studies.csv
+assessments/10k_synthea_covid19_csv/10k_synthea_covid19_csv/immunizations.csv
+assessments/10k_synthea_covid19_csv/10k_synthea_covid19_csv/medications.csv
+assessments/10k_synthea_covid19_csv/10k_synthea_covid19_csv/observations.csv
+assessments/10k_synthea_covid19_csv/10k_synthea_covid19_csv/organizations.csv
+assessments/10k_synthea_covid19_csv/10k_synthea_covid19_csv/patients.csv
+assessments/10k_synthea_covid19_csv/10k_synthea_covid19_csv/payer_transitions.csv
+assessments/10k_synthea_covid19_csv/10k_synthea_covid19_csv/payers.csv
+assessments/10k_synthea_covid19_csv/10k_synthea_covid19_csv/procedures.csv
+assessments/10k_synthea_covid19_csv/10k_synthea_covid19_csv/providers.csv
+assessments/10k_synthea_covid19_csv/10k_synthea_covid19_csv/supplies.csv
+assessments/10k_synthea_covid19_csv/10k_synthea_covid19_csv/Synthea COVID-19 Analysis.html
+assessments/10k_synthea_covid19_csv/__MACOSX/10k_synthea_covid19_csv/._Synthea COVID-19 Analysis.html
+assessments/10k_synthea_covid19_csv.zip
+programming1(1).docx
+.~lock.programming1(1).docx#
+data/assignment_1.py
